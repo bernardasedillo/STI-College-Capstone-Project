@@ -1,0 +1,161 @@
+{
+    "venues": {
+        "list": [
+            {
+                "img": "assets\/images\/garden1.jpg",
+                "title": "Garden",
+                "desc": "A beautiful outdoor space perfect for weddings and special occasions, surrounded by lush greenery.",
+                "modal_content": "Details for Garden Venue."
+            }
+        ]
+    },
+    "gallery": {
+        "images": [
+            {
+                "filename": "Resort.jpg",
+                "caption": "Pool 6",
+                "category": "pool"
+            },
+            {
+                "filename": "event10.jpg",
+                "caption": "Event 10",
+                "category": "event"
+            },
+            {
+                "filename": "Resort.jpg",
+                "caption": "demo resort",
+                "category": "resort"
+            },
+            {
+                "filename": "Resort.jpg",
+                "caption": "resort demo demo",
+                "category": "resort"
+            },
+            {
+                "filename": "miles-morales-spider-man-dark-black-background-artwork-5k-8k-8000x4518-1902.png",
+                "caption": "demo",
+                "category": "gallery"
+            },
+            {
+                "filename": "renatos sample image.jpg",
+                "caption": "renatos sample",
+                "category": "event"
+            },
+            {
+                "filename": "event11.jpg",
+                "caption": "Event 11",
+                "category": "event"
+            },
+            {
+                "filename": "event12.jpg",
+                "caption": "Event 12",
+                "category": "event"
+            },
+            {
+                "filename": "event3.jpg",
+                "caption": "Event 3",
+                "category": "event"
+            },
+            {
+                "filename": "event4.jpg",
+                "caption": "Event 4",
+                "category": "event"
+            },
+            {
+                "filename": "event5.jpg",
+                "caption": "Event 5",
+                "category": "event"
+            },
+            {
+                "filename": "event6.jpg",
+                "caption": "Event 6",
+                "category": "event"
+            },
+            {
+                "filename": "event7.jpg",
+                "caption": "Event 7",
+                "category": "event"
+            },
+            {
+                "filename": "event8.jpg",
+                "caption": "Event 8",
+                "category": "event"
+            },
+            {
+                "filename": "pool 1.jpg",
+                "caption": "Pool 1",
+                "category": "pool"
+            },
+            {
+                "filename": "pool 2.jpg",
+                "caption": "Pool 2",
+                "category": "pool"
+            },
+            {
+                "filename": "pool 3.jpg",
+                "caption": "Pool 3",
+                "category": "pool"
+            },
+            {
+                "filename": "pool 4.jpg",
+                "caption": "Pool 4",
+                "category": "pool"
+            },
+            {
+                "filename": "pool 5.jpg",
+                "caption": "Pool 5",
+                "category": "pool"
+            },
+            {
+                "filename": "garden 1.jpg",
+                "caption": "Garden 1",
+                "category": "garden"
+            },
+            {
+                "filename": "room 1.jpg",
+                "caption": "Room 1",
+                "category": "room"
+            },
+            {
+                "filename": "event8.jpg",
+                "caption": "Event 8",
+                "category": "event"
+            },
+            {
+                "filename": "event8.jpg",
+                "caption": "Event 8",
+                "category": "event"
+            },
+            {
+                "filename": "event8.jpg",
+                "caption": "Event 8",
+                "category": "event"
+            },
+            {
+                "filename": "event8.jpg",
+                "caption": "Event 8",
+                "category": "event"
+            }
+        ]
+    },
+    "home": {
+        "slides": [
+            {
+                "image": "Renatos hall.jpg",
+                "text": "sample"
+            },
+            {
+                "image": "Resort.jpg",
+                "text": "sample"
+            },
+            {
+                "image": "renatos_sample_image.jpg",
+                "text": "sample sample"
+            },
+            {
+                "image": "renatos_sample_image.jpg",
+                "text": "Sample slide for papa doms"
+            }
+        ]
+    }
+}

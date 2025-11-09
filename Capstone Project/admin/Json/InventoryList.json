@@ -1,0 +1,114 @@
+[
+    {
+        "itemName": "Mattresses",
+        "itemType": "Furniture",
+        "dateAdded": "2025-07-24",
+        "quantity": 10,
+        "description": "Comfortable foam mattresses for quality sleep."
+    },
+    {
+        "itemName": "Pillows",
+        "itemType": "Bedding",
+        "dateAdded": "2025-07-24",
+        "quantity": 20,
+        "description": "Soft and fluffy sleeping pillows."
+    },
+    {
+        "itemName": "Tables",
+        "itemType": "Furniture",
+        "dateAdded": "2025-07-24",
+        "quantity": 7,
+        "description": "Sturdy wooden tables suitable for dining or work."
+    },
+    {
+        "itemName": "Chairs",
+        "itemType": "Furniture",
+        "dateAdded": "2025-07-24",
+        "quantity": 15,
+        "description": "Ergonomic chairs with comfortable seating."
+    },
+    {
+        "itemName": "Pool Umbrellas",
+        "itemType": "Outdoor",
+        "dateAdded": "2025-07-24",
+        "quantity": 4,
+        "description": "Large umbrellas providing shade for poolside areas."
+    },
+    {
+        "itemName": "Spoons",
+        "itemType": "Utensils",
+        "dateAdded": "2025-07-24",
+        "quantity": 50,
+        "description": "Stainless steel spoons for dining."
+    },
+    {
+        "itemName": "Forks",
+        "itemType": "Utensils",
+        "dateAdded": "2025-07-24",
+        "quantity": 50,
+        "description": "Durable stainless steel forks."
+    },
+    {
+        "itemName": "Knives",
+        "itemType": "Utensils",
+        "dateAdded": "2025-07-24",
+        "quantity": 50,
+        "description": "Sharp dining knives with ergonomic handles."
+    },
+    {
+        "itemName": "Plates",
+        "itemType": "Dinnerware",
+        "dateAdded": "2025-07-24",
+        "quantity": 40,
+        "description": "Ceramic plates in standard size."
+    },
+    {
+        "itemName": "Cups",
+        "itemType": "Dinnerware",
+        "dateAdded": "2025-07-24",
+        "quantity": 40,
+        "description": "Mugs and tea cups for serving hot beverages."
+    },
+    {
+        "itemName": "Glasses",
+        "itemType": "Dinnerware",
+        "dateAdded": "2025-07-24",
+        "quantity": 40,
+        "description": "Clear drinking glasses for water or juice."
+    },
+    {
+        "itemName": "Demo Product B",
+        "itemType": "Example Type",
+        "dateAdded": "2025-07-24",
+        "quantity": 1,
+        "description": "Placeholder data for demo product B."
+    },
+    {
+        "itemName": "Temp Object J",
+        "itemType": "Temporary",
+        "dateAdded": "2025-07-24",
+        "quantity": 10,
+        "description": "Temporary object for sandbox environment."
+    },
+    {
+        "itemName": "Sample",
+        "itemType": "Demo",
+        "dateAdded": "2025-10-05",
+        "quantity": 12,
+        "description": "N\/A"
+    },
+    {
+        "itemName": "Test Item",
+        "itemType": "Item to test archive function",
+        "dateAdded": "2025-10-12",
+        "quantity": 2,
+        "description": "Item to test archive function by Janina Subido"
+    },
+    {
+        "itemName": "test",
+        "itemType": "test",
+        "dateAdded": "2025-10-12",
+        "quantity": 0,
+        "description": "dsc"
+    }
+]

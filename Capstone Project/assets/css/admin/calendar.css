@@ -1,0 +1,143 @@
+/* Calendar container */
+#calendar {
+    max-width: 1100px;
+    margin: 30px auto;
+    font-size: 12px;
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Expand when sidebar collapsed */
+#content 
+{
+    padding: 10px;
+	margin-left: 230px;
+}
+#content.active #calendar {
+    max-width: 100%;
+    margin: 20px;
+}
+
+/* Calendar Header */
+.fc .fc-toolbar {
+    margin-bottom: 20px;
+}
+.fc .fc-toolbar-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #2c3e50;
+}
+.fc .fc-button {
+    font-size: 13px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    border: none;
+    transition: all 0.2s;
+}
+.fc .fc-button-primary {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: #fff;
+}
+.fc .fc-button-primary:hover {
+    background: linear-gradient(135deg, #0056b3, #004080);
+    transform: translateY(-1px);
+}
+
+/* Calendar cells */
+.fc .fc-daygrid-day-number {
+    font-size: 11px;
+    font-weight: 500;
+    color: #495057;
+    padding: 2px 4px;
+}
+.fc-daygrid-day {
+    transition: background-color 0.2s ease, transform 0.1s ease;
+    cursor: pointer;
+}
+.fc-daygrid-day:hover:not(.fc-past-day):not(.fc-rest-day) {
+    background-color: rgba(0, 123, 255, 0.08);
+    border-radius: 6px;
+    transform: scale(1.01);
+}
+.fc-day-today {
+    background-color: rgba(40, 167, 69, 0.12) !important;  /* light green */
+    border: 2px solid #28a745 !important;
+    border-radius: 8px;
+    font-weight: bold;
+    color: #000 !important;  /* ensure number is visible */
+}
+
+/* Events */
+.fc-event {
+    font-size: 11px;
+    padding: 2px 6px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s ease;
+}
+.fc-event:hover {
+    transform: translateY(-2px) scale(1.02);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* Past days: blocked but numbers visible */
+.fc-past-day {
+    background-color: #f0f0f0 !important;
+    pointer-events: none;   /* disable clicks */
+    opacity: 1 !important;  /* fully visible */
+}
+.fc-past-day .fc-daygrid-day-number {
+    color: #495057 !important; /* ensure number is visible */
+}
+
+/* Rest days: red background, white text */
+.fc-rest-day {
+    background-color: #e6323a !important;
+    color: #020202 !important;
+    font-weight: bold;
+    border-radius: 4px;
+}
+/* Legend */
+.legend {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+}
+.legend .badge {
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 30px;
+    color: #fff;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.12);
+    transition: all 0.25s ease;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+/* Modal styling */
+.modal-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+.modal-body p {
+    font-size: 13px;
+    margin-bottom: 6px;
+}
+.modal-header {
+    color: #fff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.modal-footer .btn {
+    padding: 6px 14px;
+    font-size: 13px;
+    border-radius: 6px;
+}

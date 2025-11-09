@@ -1,0 +1,105 @@
+/* Stepper */
+.stepper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    position: relative;
+}
+.step-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+.step-marker {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ccc;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+.step-name {
+    margin-top: 5px;
+    font-size: 12px;
+    text-align: center;
+}
+.step-item.active .step-marker {
+    background-color: #007bff;
+}
+.step-item.completed .step-marker {
+    background-color: #28a745;
+}
+.stepper-line {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: #ccc;
+    z-index: 0;
+}
+.stepper-progress {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    height: 2px;
+    background-color: #007bff;
+    width: 0%;
+    transition: width 0.3s;
+}
+
+/* Form Steps */
+.step {
+    display: none;
+}
+.step.active {
+    display: block;
+}
+
+/* Buttons */
+.step-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+/* Payment Section */
+.payment-options {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.payment-option {
+    text-align: center;
+}
+.qr-code {
+    width: 150px;
+    height: 150px;
+    background-color: #f0f0f0;
+    margin: 0 auto 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.qr-code img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Overview */
+.overview-details {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}
+.overview-details h6 {
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}

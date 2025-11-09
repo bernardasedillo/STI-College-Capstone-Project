@@ -1,0 +1,20 @@
+{
+    "about": {
+        "title": "About Us",
+        "content": [
+            "Renato's Place Private Resort and Events is a premier destination for relaxation and celebrations. We offer a serene environment with top-notch facilities to make your events memorable and your stays comfortable."
+        ]
+    },
+    "mission": {
+        "title": "Mission",
+        "content": [
+            "Our mission is to provide exceptional service and a beautiful venue for all types of gatherings, ensuring every guest has a delightful and unforgettable experience."
+        ]
+    },
+    "vision": {
+        "title": "Vision",
+        "content": [
+            "To be the leading private resort and events place in the region, recognized for our outstanding hospitality, exquisite facilities, and commitment to customer satisfaction."
+        ]
+    }
+}

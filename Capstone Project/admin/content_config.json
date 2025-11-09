@@ -1,0 +1,596 @@
+{
+    "about": {
+        "title": "About Us",
+        "content": [
+            "Renato\u2019s Place Private Resort and Events, commonly known as \u201cRENATO\u2019S PLACE,\u201d was opened to all interested parties, both in private and public, on October 28, 2020. Established by Renato and Teresita Alcera and managed by Ma. Theresa A. Santos and Jaciel John Alcera. It is located at inside Noel\u2019s Village, Brgy. Dolores Taytay, Rizal. It began with a vision and mission to be one of the industry innovators that can transform ordinary moments into extraordinary memories. \r\n\r\nAt first, Renato\u2019s Place kick-off its first private resort that can accommodate up to 80 guests. This family-friendly resort offers relaxation and a detoxifying atmosphere away from the hustle-bustle of city-life. Their customers will be welcomed by warm accommodations and \u201cInstagrammable\u201d scenery. To get refreshed by the infinity pool, mini pool, and heated jacuzzi. Relax in the pool-side loungers, gazebo, and venue hall. Additionally, Renato\u2019s Place has four (4) suite rooms, an event hall 60-to-80-person, pool area 30-to-50-person, mini function hall 20-to-40-person, bar, and a caf\u00e9 restaurant. This place was made with a mission to accommodate guests that will gather from afar and need time to relax and to just get away from a busy life out of the city."
+        ],
+        "mission": [
+            "Renato's Place Private Resort and Events mission is to provide authentic hospitality. We make a difference in the lives of people we touch every day. Our definition of hospitality. To provide true and rich hospitality. We make a difference in the lives of those we touch every day that is our definition of hospitality. We do this in an environment that respects all people and all ideas. We do it in an efficient way that leads to superior results."
+        ],
+        "vision": [
+            "We are creating an everlasting dream holiday in harmony with nature and an experience of traditional Filipino hospitality that is extraordinary and memorable. Our vision is to establish Renato's Place Private Resort and Events as a prestigious and globally recognized Resort and Venue Brand. We build life-long guest relationships by delivering exquisite services and fulfilling their ultimate dream Staycation and Events."
+        ],
+        "image": "assets\/images\/about.jpg"
+    },
+    "home": {
+        "slides": [
+            {
+                "image": "home-slide5.jpg",
+                "text": "experience the balinese ambiance only at renato's place private resort and events"
+            },
+            {
+                "image": "home-slide2.jpg",
+                "text": "experience the balinese ambiance only at renato's place private resort and events"
+            },
+            {
+                "image": "home-slide3.jpg",
+                "text": "experience the balinese ambiance only at renato's place private resort and events"
+            },
+            {
+                "image": "home-slide4.jpg",
+                "text": "experience the balinese ambiance only at renato's place private resort and events"
+            }
+        ],
+        "offers": [
+            {
+                "image": "offer1.jpg"
+            },
+            {
+                "image": "offer2.jpg"
+            },
+            {
+                "image": "offer3.jpg"
+            },
+            {
+                "image": "offer4.jpg"
+            },
+            {
+                "image": "offer5.jpg"
+            },
+            {
+                "image": "offer6.jpg"
+            },
+            {
+                "image": "offer7.jpg"
+            }
+        ],
+        "services": [
+            {
+                "image": "service1.png",
+                "title": "swimming pool"
+            },
+            {
+                "image": "service2.png",
+                "title": "food & drinks"
+            },
+            {
+                "image": "service3.png",
+                "title": "bar"
+            }
+        ],
+        "affiliates": [
+            {
+                "image": "catering.png",
+                "title": "Affiliate Caterers",
+                "modal_id": "modal1"
+            },
+            {
+                "image": "supplier.png",
+                "title": "Lights and Sound",
+                "modal_id": "modal2"
+            },
+            {
+                "image": "service3.png",
+                "title": "Bar",
+                "modal_id": "modal3"
+            },
+            {
+                "image": "dessert icon.png",
+                "title": "Grazing Table",
+                "modal_id": "modal4"
+            }
+        ],
+        "affiliate_modals": {
+            "modal1": {
+                "title": "Affiliate Caterers",
+                "content": [
+                    {
+                        "name": "DENSOL'S CATERING",
+                        "facebook": "https:\/\/www.facebook.com\/densolscatering",
+                        "contacts": [
+                            "09656051741",
+                            "09983941602",
+                            "09361732001",
+                            "02-82869256"
+                        ]
+                    },
+                    {
+                        "name": "CHEF MARIA'S CATERING",
+                        "facebook": "https:\/\/www.facebook.com\/chefmariascatering",
+                        "contacts": [
+                            "09285211340"
+                        ]
+                    },
+                    {
+                        "name": "MADRIAGA CATERING",
+                        "facebook": "https:\/\/www.facebook.com\/madriagacatering",
+                        "contacts": [
+                            "09109477722"
+                        ]
+                    },
+                    {
+                        "name": "SAC-B CATERING",
+                        "facebook": "https:\/\/www.facebook.com\/sacbcateringservice",
+                        "contacts": [
+                            "279589260"
+                        ]
+                    },
+                    {
+                        "name": "HIZON'S CATERING",
+                        "facebook": "https:\/\/www.facebook.com\/weddingcateringbyhizons?mibextid=ZbWKwL",
+                        "contacts": [
+                            "09665046540"
+                        ]
+                    }
+                ]
+            },
+            "modal2": {
+                "title": "LIGHTS AND SOUND",
+                "content": [
+                    {
+                        "name": "Orange and string studio",
+                        "facebook": "https:\/\/www.facebook.com\/orangeandstringsstudio?mibextid=ZbWKwL",
+                        "contacts": [
+                            "09194184035"
+                        ]
+                    },
+                    {
+                        "name": "JGR",
+                        "facebook": "https:\/\/www.facebook.com\/profile.php?id=100064086667821&mibextid=ZbWKwL",
+                        "contacts": [
+                            "09157964743"
+                        ]
+                    },
+                    {
+                        "name": "Rave",
+                        "facebook": "https:\/\/www.facebook.com\/profile.php?id=100083036905420&mibextid=ZbWKwL",
+                        "contacts": [
+                            "09455141763"
+                        ]
+                    }
+                ]
+            },
+            "modal3": {
+                "title": "Bar",
+                "content": [
+                    {
+                        "name": "Renato's Cafe",
+                        "facebook": "https:\/\/www.facebook.com\/Renatoscafefoodandbar?mibextid=ZbWKwL",
+                        "contacts": [
+                            "09610203503"
+                        ]
+                    }
+                ]
+            },
+            "modal4": {
+                "title": "Grazing Table",
+                "content": [
+                    {
+                        "name": "Donut wall by hazel",
+                        "facebook": "https:\/\/www.facebook.com\/donutwallbyhazel?mibextid=ZbWKwL",
+                        "contacts": [
+                            "09056671086"
+                        ]
+                    },
+                    {
+                        "name": "The Yolk Coffee and Snack Bar",
+                        "facebook": "https:\/\/www.facebook.com\/TheYolkk?mibextid=ZbWKwL",
+                        "contacts": [
+                            "09557496398"
+                        ]
+                    },
+                    {
+                        "name": "(Koun Takoyaki)",
+                        "facebook": "https:\/\/www.facebook.com\/kountakoyaki?mibextid=ZbWKwL",
+                        "contacts": [
+                            "09152356078"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "rooms": {
+        "heading": "Rooms",
+        "list": [
+            {
+                "img": "room1.jpg",
+                "title": "Suite Room (22 Hours)",
+                "desc": "Experience ultimate comfort with full kitchen amenities and a spacious environment.",
+                "features": [
+                    "2 Rooms",
+                    "1 Bathroom",
+                    "AC",
+                    "WiFi",
+                    "TV",
+                    "Max 6 Guests"
+                ],
+                "price": "PHP 3,500.00"
+            },
+            {
+                "img": "room3.jpg",
+                "title": "Suite Room (12 Hours)",
+                "desc": "A cozy and comfortable stay, perfect for a relaxing getaway or a productive work session.",
+                "features": [
+                    "2 Rooms",
+                    "1 Bathroom",
+                    "AC",
+                    "WiFi",
+                    "TV",
+                    "Max 6 Guests"
+                ],
+                "price": "PHP 2,500.00"
+            }
+        ]
+    },
+    "venues": {
+        "heading": "Venues",
+        "list": [
+            {
+                "img": "MiniF1.jpg",
+                "title": "Mini Function Hall",
+                "desc": "An intimate and elegant hall ideal for debuts, parties, and corporate events.",
+                "modal_content": "Our Mini Function Hall is a cozy indoor venue designed for intimate celebrations and small gatherings. Ideal for birthdays, bridal showers, meetings, and private dinners, it offers a comfortable space that can accommodate 20 to 50 guests. The hall is fully air-conditioned and features elegant interiors with modern lighting and flexible seating arrangements. Guests can enjoy convenient access to the pool area, caf\u00e9, and bar \u2014 making it perfect for casual yet memorable occasions."
+            },
+            {
+                "img": "pavilion1.jpg",
+                "title": "Pavilion",
+                "desc": "A versatile and spacious pavilion suitable for large gatherings and celebrations.",
+                "modal_content": "The Renato\u2019s Pavilion is the centerpiece of Renato\u2019s Place a grand events facility that embodies sophistication and comfort. With its high ceilings, stylish chandeliers, and spacious interior, the pavilion can accommodate 100 to 250 guests. It features: \r\n\r\nA main event area with flexible seating for various layouts.\r\nAn elevated stage for programs and performances.\r\nAn air-conditioned couple\u2019s lounge for bridal preparations or VIP use.\r\nElegant restrooms and a welcoming lobby area.\r\nAccess to outdoor photo-shoot areas and landscaped surroundings.\r\n\r\nPerfect for weddings, debuts, corporate functions, seminars, and other milestone occasions, Renato\u2019s Pavilion stands as the heart of the resort\u2019s event experience."
+            },
+            {
+                "img": "hall1.jpg",
+                "title": "Renato's Hall",
+                "desc": "Our grand hall, perfect for making a statement with its luxurious ambiance and ample space.",
+                "modal_content": "The Renato\u2019s Hall serves as one of the main function spaces at Renato\u2019s Place, built to host medium-sized gatherings such as weddings, debuts, family reunions, or corporate events. Designed to accommodate 60 to 80 persons, the hall offers a refined atmosphere with warm tones, decorative accents, and full air-conditioning. It provides a complete setup for any event \u2014 from elegant receptions to formal presentations \u2014 with available amenities such as sound system access, stage area, and nearby catering facilities."
+            },
+            {
+                "img": "Resort.jpg",
+                "title": "Private Resort",
+                "desc": "Discover our private resort \u2014 your exclusive haven for leisure, comfort, and unforgettable moments.ay",
+                "modal_content": "Renato\u2019s Place began as a private family resort and continues to offer guests a relaxing retreat away from the city. The resort area can accommodate up to 80 guests and features:\r\n- An infinity pool, mini pool, and heated jacuzzi\r\n- Poolside loungers, gazebo, and landscaped gardens\r\n- Four (4) luxurious suite rooms for overnight stays\r\n- A bar and caf\u00e9 restaurant for casual dining\r\n- Spacious outdoor areas for recreation and photo opportunities\r\n\r\nWhether for a day visit, overnight stay, or as part of an event package, the resort offers a refreshing and \u201cInstagrammable\u201d ambiance that blends leisure, comfort, and elegance."
+            }
+        ]
+    },
+    "gallery": {
+        "heading": "Gallery",
+        "images_dir": "assets\/images\/admin\/gallery\/",
+        "images": [
+            {
+                "filename": "event1.jpg",
+                "caption": "Debut",
+                "category": "event"
+            },
+            {
+                "filename": "event2.jpg",
+                "caption": "Debut",
+                "category": "event"
+            },
+            {
+                "filename": "event3.jpg",
+                "caption": "Debut",
+                "category": "event"
+            },
+            {
+                "filename": "event4.jpg",
+                "caption": "Debut",
+                "category": "event"
+            },
+            {
+                "filename": "event5.jpg",
+                "caption": "Debut",
+                "category": "event"
+            },
+            {
+                "filename": "event6.jpg",
+                "caption": "Debut",
+                "category": "event"
+            },
+            {
+                "filename": "event7.jpg",
+                "caption": "Debut",
+                "category": "event"
+            },
+            {
+                "filename": "event8.jpg",
+                "caption": "Debut",
+                "category": "event"
+            },
+            {
+                "filename": "pool1.jpg",
+                "caption": "Resort Event",
+                "category": "pool"
+            },
+            {
+                "filename": "pool2.jpg",
+                "caption": "Resort Event",
+                "category": "pool"
+            },
+            {
+                "filename": "pool3.jpg",
+                "caption": "Resort Event",
+                "category": "pool"
+            },
+            {
+                "filename": "pool4.jpg",
+                "caption": "Resort Event",
+                "category": "pool"
+            },
+            {
+                "filename": "pool5.jpg",
+                "caption": "Resort Event",
+                "category": "pool"
+            },
+            {
+                "filename": "pool5.jpg",
+                "caption": "Resort Event",
+                "category": "pool"
+            },
+            {
+                "filename": "pool6.jpg",
+                "caption": "Resort Event",
+                "category": "pool"
+            },
+            {
+                "filename": "wed1.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed2.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed3.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed4.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed5.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed6.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed8.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed9.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed9.jpg",
+                "caption": "Wedding",
+                "category": "event"
+            },
+            {
+                "filename": "wed10.jpg",
+                "caption": "Wedding",
+                "category": "garden"
+            },
+            {
+                "filename": "wed11.jpg",
+                "caption": "Wedding",
+                "category": "garden"
+            },
+            {
+                "filename": "wed12.jpg",
+                "caption": "Wedding",
+                "category": "garden"
+            },
+            {
+                "filename": "mini1.jpg",
+                "caption": "Mini Function Hall",
+                "category": "event"
+            },
+            {
+                "filename": "mini2.jpg",
+                "caption": "Mini Function Hall",
+                "category": "event"
+            },
+            {
+                "filename": "mini3.jpg",
+                "caption": "Mini Function Hall",
+                "category": "event"
+            },
+            {
+                "filename": "mini3.jpg",
+                "caption": "Mini Function Hall",
+                "category": "event"
+            },
+            {
+                "filename": "mini4.jpg",
+                "caption": "Mini Function Hall",
+                "category": "event"
+            },
+            {
+                "filename": "mini6.jpg",
+                "caption": "Mini Function Hall",
+                "category": "event"
+            },
+            {
+                "filename": "mini8.jpg",
+                "caption": "Mini Function Hall",
+                "category": "event"
+            },
+            {
+                "filename": "Pavilion1.jpg",
+                "caption": "Renato's Pavilion",
+                "category": "event"
+            },
+            {
+                "filename": "Pavilion2.jpg",
+                "caption": "Renato's Pavilion",
+                "category": "event"
+            },
+            {
+                "filename": "Pavilion3.jpg",
+                "caption": "Renato's Pavilion",
+                "category": "event"
+            },
+            {
+                "filename": "Pavilion4.jpg",
+                "caption": "Renato's Pavilion",
+                "category": "event"
+            },
+            {
+                "filename": "Pavilion5.jpg",
+                "caption": "Renato's Pavilion",
+                "category": "event"
+            },
+            {
+                "filename": "Pavilion6.jpg",
+                "caption": "Renato's Pavilion",
+                "category": "event"
+            },
+            {
+                "filename": "Pavilion7.jpg",
+                "caption": "Renato's Pavilion",
+                "category": "event"
+            },
+            {
+                "filename": "renatoshall1.jpg",
+                "caption": "Renato's Hall",
+                "category": "event"
+            },
+            {
+                "filename": "renatoshall2.jpg",
+                "caption": "Renato's Hall",
+                "category": "event"
+            },
+            {
+                "filename": "renatoshall3.jpg",
+                "caption": "Renato's Hall",
+                "category": "event"
+            },
+            {
+                "filename": "renatoshall4.jpg",
+                "caption": "Renato's Hall",
+                "category": "event"
+            },
+            {
+                "filename": "renatoshall5.jpg",
+                "caption": "Renato's Hall",
+                "category": "event"
+            },
+            {
+                "filename": "renatoshall6.jpg",
+                "caption": "Renato's Hall",
+                "category": "event"
+            },
+            {
+                "filename": "resort 4.jpg",
+                "caption": "Resort",
+                "category": "pool"
+            },
+            {
+                "filename": "resort1.jpg",
+                "caption": "Resort",
+                "category": "pool"
+            },
+            {
+                "filename": "resort3.jpg",
+                "caption": "Resort",
+                "category": "pool"
+            },
+            {
+                "filename": "resort5.jpg",
+                "caption": "Resort",
+                "category": "pool"
+            },
+            {
+                "filename": "resort6.jpg",
+                "caption": "Resort",
+                "category": "pool"
+            },
+            {
+                "filename": "resort7.jpg",
+                "caption": "Resort",
+                "category": "pool"
+            },
+            {
+                "filename": "resort8.jpg",
+                "caption": "Resort",
+                "category": "pool"
+            },
+            {
+                "filename": "resrot2.jpg",
+                "caption": "Resort",
+                "category": "pool"
+            },
+            {
+                "filename": "garden.jpg",
+                "caption": "Wedding",
+                "category": "garden"
+            },
+            {
+                "filename": "garden1.jpg",
+                "caption": "Wedding",
+                "category": "garden"
+            },
+            {
+                "filename": "room2.jpg",
+                "caption": "Room",
+                "category": "room"
+            },
+            {
+                "filename": "room3.jpg",
+                "caption": "Room",
+                "category": "room"
+            },
+            {
+                "filename": "room4.jpg",
+                "caption": "Room",
+                "category": "room"
+            },
+            {
+                "filename": "room5.jpg",
+                "caption": "Room",
+                "category": "room"
+            },
+            {
+                "filename": "room6.jpg",
+                "caption": "Room",
+                "category": "room"
+            },
+            {
+                "filename": "room7.jpg",
+                "caption": "Room",
+                "category": "room"
+            },
+            {
+                "filename": "room8.jpg",
+                "caption": "Room",
+                "category": "room"
+            },
+            {
+                "filename": "room9.jpg",
+                "caption": "Room",
+                "category": "room"
+            }
+        ]
+    }
+}

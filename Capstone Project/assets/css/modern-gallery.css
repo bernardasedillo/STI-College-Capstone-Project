@@ -1,0 +1,204 @@
+/* Modern Gallery Styles */
+.gallery-section {
+    padding: 5rem 7%;
+    background-color: #f4f7f6;
+}
+
+.gallery-section .heading {
+    text-align: center;
+    font-size: 3rem;
+    color: var(--primary);
+    margin-bottom: 2rem;
+}
+
+.gallery-menu {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.filter-btn {
+    background: none;
+    border: 2px solid var(--primary);
+    color: var(--primary);
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+    border-radius: .5rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.filter-btn.active, .filter-btn:hover {
+    background-color: var(--primary);
+    color: var(--white);
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 1rem;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    aspect-ratio: 1 / 1;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease-in-out;
+}
+
+.gallery-item:hover img {
+    transform: scale(1.1);
+}
+
+.gallery-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.6);
+    color: var(--white);
+    padding: 1.5rem;
+    transform: translateY(100%);
+    transition: transform 0.4s ease-in-out;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+.gallery-item:hover .gallery-overlay {
+    transform: translateY(0);
+}
+
+/* Lightbox Styles */
+/* === CORRECTED LIGHTBOX STYLES === */
+
+.lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.85);
+    display: flex; /* This remains the same */
+    align-items: center;
+    justify-content: center;
+    z-index: 1001;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+    padding: 2rem; /* Add some padding for smaller screens */
+    box-sizing: border-box;
+}
+
+.lightbox.active {
+    opacity: 1; 
+    visibility: visible;
+}
+
+/* This is the main change: make the content a flex column */
+/* 1. The container for Image + Caption */
+.lightbox__content {
+    position: relative;
+    display: flex;
+    flex-direction: column; /* Stack image and caption */
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    /* Ensure the total container never exceeds screen bounds */
+    max-width: 90vw;
+    max-height: 90vh;
+}
+
+/* 2. The Image itself - Apply strict constraints here */
+.lightbox__content img {
+    /* Constraint 1: Never be wider than 75% of the screen */
+    max-width: 80vw; 
+    
+    /* Constraint 2: Never be taller than 70% of the screen.
+       This leaves 30% of screen height for the caption and margins. */
+    max-height: 80vh; 
+    
+    /* Maintain aspect ratio without stretching */
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    
+    /* Cosmetic styles */
+    border-radius: .5rem;
+    cursor: zoom-in;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Keep zoom functionality */
+.lightbox__content img.zoomed {
+    transform: scale(1.5);
+    cursor: zoom-out;
+    /* Ensure zoomed image stays above caption if they overlap */
+    z-index: 10; 
+}
+
+/* Ensure caption has space */
+.lightbox__caption {
+    color: var(--white);
+    text-align: center;
+    margin-top: 1.5rem;
+    font-size: 1.8rem;
+    flex-shrink: 0; /* Prevents caption from being squashed */
+}
+
+/* Controls can stay mostly the same */
+.lightbox__close, .lightbox__prev, .lightbox__next {
+    position: absolute;
+    background: none;
+    border: none;
+    color: var(--white);
+    font-size: 4rem;
+    cursor: pointer;
+    z-index: 1002;
+    padding: 1rem;
+    text-shadow: 0 0 8px rgba(0,0,0,0.5); /* Add shadow for better visibility */
+}
+
+.lightbox__close { top: 0; right: 0; }
+.lightbox__prev { top: 50%; left: 0; transform: translateY(-50%); }
+.lightbox__next { top: 50%; right: 0; transform: translateY(-50%); }
+
+/* Adjustments for media queries */
+@media (max-width: 768px) {
+    .lightbox__close { top: 1rem; right: 1rem; font-size: 3rem; }
+    .lightbox__prev { left: 1rem; font-size: 3rem; }
+    .lightbox__next { right: 1rem; font-size: 3rem; }
+}
+
+@media (max-width: 768px) {
+    .gallery-menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .filter-btn {
+        padding: 0.8rem 1.5rem;
+        font-size: 1.4rem;
+    }
+
+    .lightbox__close { top: 1rem; right: 1rem; font-size: 3rem; }
+    .lightbox__prev { left: 1rem; font-size: 3rem; }
+    .lightbox__next { right: 1rem; font-size: 3rem; }
+}
+
+@media (max-width: 480px) {
+    .gallery-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+}

@@ -1,0 +1,128 @@
+[
+    {
+        "itemName": "Test Unit C",
+        "itemType": "Mock Category",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Used for testing purposes only."
+    },
+    {
+        "itemName": "Sample Entry D",
+        "itemType": "Template Type",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Filler entry for development testing."
+    },
+    {
+        "itemName": "Mock Item E",
+        "itemType": "Debug Tools",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Example entry with generic test values."
+    },
+    {
+        "itemName": "Placeholder F",
+        "itemType": "Dummy Data",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "This is dummy text for testing item creation."
+    },
+    {
+        "itemName": "Fake Record G",
+        "itemType": "Stub Category",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Simulated entry for testing database operations."
+    },
+    {
+        "itemName": "Trial Entry H",
+        "itemType": "Sample Type",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Used in UI testing for display validation."
+    },
+    {
+        "itemName": "Experimental Item I",
+        "itemType": "Prototype",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Test data for internal QA review."
+    },
+    {
+        "itemName": "Temp Object J",
+        "itemType": "Temporary",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Temporary object for sandbox environment."
+    },
+    {
+        "itemName": "Sample Item A",
+        "itemType": "Test Category",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "This is a test description for sample item A."
+    },
+    {
+        "itemName": "Demo Product B",
+        "itemType": "Example Type",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Placeholder data for demo product B."
+    },
+    {
+        "itemName": "Test Unit C",
+        "itemType": "Mock Category",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Used for testing purposes only."
+    },
+    {
+        "itemName": "Sample Entry D",
+        "itemType": "Template Type",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Filler entry for development testing."
+    },
+    {
+        "itemName": "Mock Item E",
+        "itemType": "Debug Tools",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Example entry with generic test values."
+    },
+    {
+        "itemName": "Placeholder F",
+        "itemType": "Dummy Data",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "This is dummy text for testing item creation."
+    },
+    {
+        "itemName": "Fake Record G",
+        "itemType": "Stub Category",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Simulated entry for testing database operations."
+    },
+    {
+        "itemName": "Trial Entry H",
+        "itemType": "Sample Type",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Used in UI testing for display validation."
+    },
+    {
+        "itemName": "Experimental Item I",
+        "itemType": "Prototype",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "Test data for internal QA review."
+    },
+    {
+        "itemName": "Sample Item A",
+        "itemType": "Test Category",
+        "dateAdded": "2025-07-24",
+        "quantity": 0,
+        "description": "This is a test description for sample item A."
+    }
+]

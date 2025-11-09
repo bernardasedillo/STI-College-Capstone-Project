@@ -1,0 +1,246 @@
+{
+    "Greetings": {
+        "questions": [
+            "Hello",
+            "Hi",
+            "Hey",
+            "Greetings",
+            "Good&nbsp;morning",
+            "Good&nbsp;afternoon",
+            "Good&nbsp;evening",
+            "What's&nbsp;up",
+            "Howdy",
+            "Hi&nbsp;there",
+            "Good&nbsp;day",
+            "Ola"
+        ],
+        "answer": "Good&nbsp;Day,&nbsp;What&nbsp;Can&nbsp;i&nbsp;do&nbsp;for&nbsp;you?"
+    },
+    "Gratitude": {
+        "questions": [
+            "Thank you",
+            "Thankyou",
+            "Thanks",
+            "Thanks a lot",
+            "Thank you very much",
+            "Many thanks",
+            "Salamat"
+        ],
+        "answer": "You're welcome! If you have any other questions, feel free to ask."
+    },
+    "Business Hours": {
+        "questions": [
+            "Hours",
+            "Opening Hours",
+            "When do you open",
+            "When do you close",
+            "Business Hours",
+            "What time do you open",
+            "What time do you close",
+            "Operating Hours",
+            "Store Hours",
+            "Service Hours",
+            "How long are you open",
+            "What are your Hours",
+            "What time does your place open",
+            "What time does your place close",
+            "How late are you open",
+            "When is your office open",
+            "When is your business open"
+        ],
+        "answer": "Renato's Place Private Resort and Events is open 24\/7 but the office Hours is 8:00am to 5:00pm only."
+    },
+    "Location": {
+        "questions": [
+            "Where are you located",
+            "Where is your location",
+            "Where can I find you",
+            "What is your address",
+            "Where is your place",
+            "How do I get to you",
+            "Where can I find your location",
+            "What's your location",
+            "Where is your business",
+            "How do I find you",
+            "Where is your office",
+            "Where is Renato's Place",
+            "Where is your resort located",
+            "Can you give me your address"
+        ],
+        "answer": "Renato's Place Private Resort and Events is located at (Noel's Village) Cabrera Road, Brgy. Dolores Taytay, Rizal, Taytay, Philippines."
+    },
+    "Payment Methods": {
+        "questions": [
+            "Payment methods",
+            "Payment",
+            "How can I pay",
+            "What are the payment options",
+            "Which payment methods are accepted",
+            "How can I make a payment",
+            "Accepted payment methods",
+            "What payment options do you offer",
+            "How do I pay",
+            "What are your payment methods",
+            "Which forms of payment do you accept",
+            "How can I settle the bill",
+            "What types of payment do you accept",
+            "Payment options",
+            "Methods of payment"
+        ],
+        "answer": "Renato's place accept BDO Bank transfer, GCash, and Cash."
+    },
+    "Contact": {
+        "questions": [
+            "Contact Details",
+            "How can I reach you",
+            "Phone number",
+            "How do I contact you",
+            "What is your contact information",
+            "How can I get in touch",
+            "What is your phone number",
+            "What is your email address",
+            "How to reach you",
+            "How can I call you",
+            "How can I email you"
+        ],
+        "answer": "You can reach us via:\\nLandline at 285514405,\\n\\nMobile numbers:\\n0961 020 0503,\\n0917 327 0833,\\n0929 875 2324."
+    },
+    "Rooms": {
+        "questions": [
+            "Rooms",
+            "Rooms rates",
+            "Room rates",
+            "Types of rooms",
+            "What rooms are available",
+            "Room options",
+            "Available rooms",
+            "Room types",
+            "What kinds of rooms do you have"
+        ],
+        "answer": "Renato's Suite Rooms Rates, Inclusions and Amenities:\n\nPHP 3,500.00 – SUITE ROOM WITH AIR-CONDITIONED for 22 Hours\n\nPHP 2,500.00 – SUITE ROOM WITH AIR-CONDITIONED for 12 Hours\n\nUp to 6 guests max can stay per room but you need to avail extra mattress (Php 500 per mattress)\n\n• Full Kitchen Amenities (Refrigerator, Gas Burner Stove, Microwave, and utensils)\n• 1 King-sized or 2 Queen-sized bed\n• 1 bathroom with water heater for males and females\n• 1 Smart TV\n\n- For Room Only: No usage of swimming pool, limited Pax only to Suite Room"
+    },
+    "Renato's Hall": {
+        "questions": [
+            "Renato's hall",
+            "Renato's hall rates",
+            "Event hall",
+            "Renato's hall facilities",
+            "What is Renato's hall",
+            "Hall options",
+            "Hall details",
+            "Hall services",
+            "Renatos hall?"
+        ],
+        "answer": "Renato's Hall Rates, Inclusions, and Amenities: <br><br>• Venue Only = Weekdays PHP 20,000 , Weekends PHP 22,000 <br><br> • Venue + Resort = Weekdays PHP40,000, Weekends PHP44,000 <br>.(free use of suite room for 12 Hours) <br><br> • Venue + Resort + All Rooms = Weekdays PHP50,000, Weekends PHP54,000 <br> (free use of suite room for 22 Hours) <br><br> Renato’s Hall Corkage for non-accredited suppliers: <br> • Caterer – PHP5,000 <br> • Lights and Sound – PHP3,000 <br> • Projector – PHP2,000 <br> • LED Wall – PHP3,000 <br> • Photo booth – PHP1,000 <br> • Ceiling Treatment Basic – PHP2,000 <br> • Mobile Bars, Beverage Kiosk – PHP2,000 <br> • Food Bars, Grazing Table, Carts – PHP1,000 <br> • Food Carts with on-the-spot cooking using electricity – PHP2,000 <br><br> Additional: <br> • Excess Hours for the reception area – PHP 3000\/Hour <br> • Early Ingress setup – PHP 3,000\/Hour <br> • Use of garden for wedding ceremony – PHP 5,000 for 2 Hours <br><br> Venue Features and Inclusions: <br> • Renato's Hall can accommodate 80 guests <br> • Stand-by Maintenance staff and security personnel <br> • Parking space for 30 cars with parking attendant <br> • Use of holding room with comfort room <br> • Use of up to 200 Monoblock chairs and twenty (20) rectangular tables <br> • Use of basic sound system"
+    },
+    "Pool": {
+        "questions": [
+            "Pool",
+            "Pool rates",
+            "Swimming pool",
+            "Is there a pool",
+            "Pool facilities",
+            "Pool options",
+            "Do you have a swimming pool",
+            "Pool information",
+            "What are the pool facilities"
+        ],
+        "answer": "Renato's Pool Rates, Inclusions and Amenities:\n\n**Daytime (8 Hours)**:\n9:00 AM to 5:00 PM, 10-25 Pax\n• Feb-Nov: Weekdays P9,800 | Weekends P11,800\n• Dec-Jan: Weekdays P11,000 | Weekends P12,500\n\n**Overnight (12 Hours)**:\n7:00 PM to 7:00 AM, 10-25 Pax\n• Feb-Nov: Weekdays P10,800 | Weekends P12,800\n• Dec-Jan: Weekdays P13,000 | Weekends P14,000\n\n**Staycation (22 Hours)**:\n9:00 AM-7:00 AM or 7:00 PM-5:00 PM, 10-30 Pax\n• Feb-Nov: Weekdays P20,500 | Weekends P22,500\n• Dec-Jan: Weekdays P23,000 | Weekends P24,000\n\n**Optional**:\n• PHP150 per head (excess of 25 Pax),\n• PHP200 for appliances\n• Family Room: P2,500 (Daytime\/Overnight)\n• Suite Room: P2,500 (12 Hours) | P3,500 (22 Hours)\n\n**Corkage**\n• Non-accredited caterer P5,000\n• Lights and sounds P3,000\n• Alcoholic beverages P300\/bottle"
+    },
+    "Mini Function Hall": {
+        "questions": [
+            "Mini function hall",
+            "Mini function hall rates",
+            "Small function hall",
+            "Function hall",
+            "Mini hall",
+            "What is the mini function hall",
+            "Mini hall facilities",
+            "Small hall options",
+            "Mini hall details"
+        ],
+        "answer": "Renato's Mini Function Hall Rates, Inclusions and Amenities:\n\nMini Function Hall EXCLUSIVE PACKAGE 12K\n• P10k (Consumable of food and drinks Menu-Based + Service charge)\n• Use of Venue for tHouree (3) Hours\n• P1000\/Hour excess\n• Fully airconditioned Venue\n• Private Comfort room\n• Veranda for smoking area\n• Infinity chairs and tables\n\nEXCLUSIVE PACKAGE 25K\n• Use of Venue for tHouree (3) Hours\n• Catering good for thirty (30) Pax\n• THouree (3) main courses, steamed rice, dessert and drinks\n• P600\/head additional (for food)\n• P1500\/Hour excess\n• Fully airconditioned Venue\n• Private Comfort room\n• Veranda for smoking area\n• Infinity chairs and tables\n\nEXCLUSIVE PACKAGE 30K\n• Use of Venue for tHouree (3) Hours\n• Catering good for thirty (30) Pax\n• Four (4) main courses, steamed rice, dessert and drinks\n• P700\/head additional (for food)\n• P1500\/Hour excess\n• Fully airconditioned Venue\n• Private Comfort room\n• Veranda for smoking area\n• Infinity chairs and tables\n\nAll packages include BASIC SOUND SYSTEM:\n• Smart TV\n• Basic sound system with microphone setup"
+    },
+    "Cancellation": {
+        "questions": [
+            "Cancellation",
+            "Cancellation policy",
+            "Can I cancel my booking",
+            "How to cancel my booking",
+            "What is the cancellation policy",
+            "Is there a cancellation fee",
+            "Can I get a refund if I cancel",
+            "How do I reschedule my booking",
+            "Rescheduling policy"
+        ],
+        "answer": "Strictly no cancellation or non-refundable. Clients may reschedule the event free of charge up to 30 days before the event date, provided the new date is available. Rescheduling within 30 days of the original date incurs a 20% charge."
+    },
+    "House Rules": {
+        "questions": [
+            "House rules",
+            "Terms and conditions",
+            "Rules",
+            "What are the rules",
+            "House policies",
+            "What are the house rules",
+            "House terms",
+            "What are the terms and conditions",
+            "House rules",
+            "terms"
+        ],
+        "answer": "House Rules, Terms and Conditions for Pool Option and Renato's Hall\n\nWhen you book accommodation or services at Renato's Private Resort & Events Place, you agree to the following terms and conditions:\n\n• A 50% deposit of the contract price or PHP 10,000 is required for reservation. First come, first served basis policy.\n\n• Strictly no cancellation or non-refundable.\n\n• Balance must be settled 1 week before the event date.\n\n• Clients may reschedule the event free of charge up to 30 days before the event date, provided the new date is available.\n\n• Rescheduling within 30 days of the original date incurs a 20% charge.\n\n• Additional PHP 150.00 per head for groups exceeding 25 Pax.\n\n• Extra charge for overtime use: PHP 1,500.00 per hour or part thereof.\n\n• Php 3,000 for security deposit to be returned within 5 days after the event.\n\n• The client must ensure their guests follow all policies.\n\n• The management reserves the right to cancel the booking if the client violates any policies or regulations.\n\n• No fireworks, confetti, or open flames allowed.\n\n• The management is not responsible for any loss or damage to personal property."
+    },
+    "Parking": {
+        "questions": [
+            "Is parking available for guests?",
+            "Is parking included in the rental?",
+            "Parking facilities",
+            "Is parking provided?",
+            "Do guests have access to parking?",
+            "Is there parking at the venue?",
+            "Are there designated parking areas for guests?",
+            "What are the parking arrangements?",
+            "Is there a fee for parking?",
+            "How many parking spaces are available?",
+            "parking"
+        ],
+        "answer": "We provide secured and private parking\\n\\nup to 50 cars with attendance at Renato's Pavilion\\nup to 30 cars with attendance at Renato's Hall."
+    },
+    "Deposit": {
+        "questions": [
+            "Do I need to pay a deposit",
+            "How much is the deposit",
+            "When is the deposit due",
+            "Guarantee policy",
+            "Is a deposit required",
+            "What is the deposit amount",
+            "When should I pay the deposit",
+            "Deposit requirements",
+            "What are the deposit terms",
+            "How much should I deposit",
+            "When must the deposit be paid",
+            "Deposit information",
+            "Details on deposit",
+            "deposit"
+        ],
+        "answer": "A deposit of 50% is required at the time of booking. The remaining balance is due 7 days prior to arrival."
+    },
+    "Booking_Instruction": {
+        "questions": [
+            "Booking",
+            "Reserve",
+            "How&nbsp;to&nbsp;book",
+            "Make&nbsp;a&nbsp;reservation",
+            "How&nbsp;do&nbsp;I&nbsp;book",
+            "How&nbsp;can&nbsp;I&nbsp;reserve",
+            "Reservation&nbsp;process",
+            "Booking&nbsp;process",
+            "How&nbsp;to&nbsp;make&nbsp;a&nbsp;booking",
+            "What&nbsp;is&nbsp;the&nbsp;booking&nbsp;procedure",
+            "How&nbsp;can&nbsp;I&nbsp;book",
+            "How&nbsp;to&nbsp;reserve",
+            "Booking&nbsp;details"
+        ],
+        "answer": "what"
+    }
+}

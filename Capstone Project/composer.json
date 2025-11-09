@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "path",
+            "url": "vendor/phpmailer/phpmailer"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "dev-main"
+    },
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,133 @@
+:root {
+    --primary: #0077b6;
+    --secondary: #48cae4;
+    --black: #333;
+    --white: #fff;
+    --box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+/* HEADER */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: var(--white);
+    box-shadow: var(--box-shadow);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 7%;
+    height: 70px;
+}
+
+/* LOGO */
+.header .logo {
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: var(--black);
+    text-decoration: none;
+}
+
+.header .logo img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+/* NAVBAR */
+.header .navbar ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header .navbar li {
+    margin: 0 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.header .navbar a {
+    font-size: 1.6rem;
+    color: var(--black);
+    padding: 0.7rem 1.5rem; /* Matching padding with button */
+    text-decoration: none;
+    transition: color 0.3s ease;
+    display: flex;
+    align-items: center;
+}
+
+.header .navbar a:hover {
+    color: var(--primary);
+}
+
+/* BUTTON STYLE */
+.header .navbar .btn {
+    background: var(--primary);
+    color: var(--white);
+    padding: 0.7rem 1.5rem;
+    border-radius: .5rem;
+    font-size: 1.6rem;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.header .navbar .btn:hover {
+    background: var(--secondary);
+    transform: scale(1.05);
+}
+
+/* MENU BUTTON (HAMBURGER) */
+#menu-btn {
+    display: none;
+    font-size: 2.5rem;
+    cursor: pointer;
+    color: var(--black);
+}
+
+/* ACTIVE LINK */
+.header .navbar a.active {
+    color: var(--primary);
+    font-weight: bold;
+}
+
+.header .navbar .btn.active {
+    color: var(--white);
+}
+
+/* MOBILE NAVBAR */
+@media (max-width: 768px) {
+    #menu-btn {
+        display: block;
+    }
+
+    .header .navbar {
+        position: absolute;
+        top: 70px;
+        left: -100%;
+        width: 100%;
+        background: var(--white);
+        box-shadow: var(--box-shadow);
+        transition: left 0.3s ease;
+    }
+
+    .header .navbar.active {
+        left: 0;
+    }
+
+    .header .navbar ul {
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem 0;
+    }
+
+    .header .navbar li {
+        margin: 1rem 0;
+    }
+}
